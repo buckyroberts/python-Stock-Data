@@ -17,6 +17,7 @@ def main():
         print(ticker)
 ```
 
+Response:
 ```
 A
 AA
@@ -37,6 +38,7 @@ def main():
         print(company)
 ```
 
+Response:
 ```
 {'ipo_year': '2014', 'name': 'Amec Plc Ord', 'sector': 'Consumer Services', 'last_sale': '7.25', 'industry': 'Military/Government/Technical', 'ticker': 'AMFW', 'market_cap': '$2.85B'}
 {'ipo_year': 'n/a', 'name': 'Affiliated Managers Group, Inc.', 'sector': 'Finance', 'last_sale': '174.91', 'industry': 'Investment Managers', 'ticker': 'AMG', 'market_cap': '$9.45B'}
