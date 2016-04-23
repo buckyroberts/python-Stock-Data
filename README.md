@@ -8,7 +8,7 @@ Wrapper for the Stock Data API.
 
 To get started, just add your API_TOKEN to the `settings.py file`
 
-## Examples
+***
 
 **Print a sorted set of all tickers**
 ```
