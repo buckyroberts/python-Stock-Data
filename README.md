@@ -1,6 +1,6 @@
 ![](http://i.imgur.com/hgUWSf0.png)
 
-# About
+## About
 
 Wrapper for the Stock Data API.
 
@@ -8,7 +8,9 @@ Wrapper for the Stock Data API.
 
 To get started, just add your API_TOKEN to the `settings.py file`
 
-### Print a sorted set of all tickers
+## Examples
+
+**Print a sorted set of all tickers**
 ```
 def main():
     for ticker in API.get_tickers():
@@ -27,7 +29,7 @@ AAME
 ...
 ```
 
-### Print basic information for all companies
+**Print basic information for all companies**
 ```
 def main():
     for company in API.get_companies():
@@ -41,7 +43,7 @@ Response:
 {'ipo_year': '1983', 'name': 'Amgen Inc.', 'sector': 'Health Care', 'last_sale': '164.35', 'industry': 'Biotechnology: Biological Products (No Diagnostic Substances)', 'ticker': 'AMGN', 'market_cap': '$123.61B'}
 ```
 
-### Print a specific field for all companies
+**Print a specific field for all companies**
 ```
 def main():
     for company in API.get_companies():
