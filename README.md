@@ -23,7 +23,7 @@ def main():
         print(ticker)
 ```
 
-response:
+results:
 ```
 A
 AA
