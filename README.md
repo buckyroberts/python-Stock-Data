@@ -17,13 +17,14 @@ Here are some examples for the API call.
 ## Print a sorted set of all tickers
 `get_tickers()` - Returns a sorted set of all tickers
 
+code:
 ```
 def main():
     for ticker in API.get_tickers():
         print(ticker)
 ```
 
-Response:
+response:
 ```
 A
 AA
