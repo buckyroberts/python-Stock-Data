@@ -29,6 +29,8 @@ AAME
 ...
 ```
 
+***
+
 **Print basic information for all companies**
 ```
 def main():
@@ -42,6 +44,8 @@ Response:
 {'ipo_year': 'n/a', 'name': 'Affiliated Managers Group, Inc.', 'sector': 'Finance', 'last_sale': '174.91', 'industry': 'Investment Managers', 'ticker': 'AMG', 'market_cap': '$9.45B'}
 {'ipo_year': '1983', 'name': 'Amgen Inc.', 'sector': 'Health Care', 'last_sale': '164.35', 'industry': 'Biotechnology: Biological Products (No Diagnostic Substances)', 'ticker': 'AMGN', 'market_cap': '$123.61B'}
 ```
+
+***
 
 **Print a specific field for all companies**
 ```
