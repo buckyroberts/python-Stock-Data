@@ -8,11 +8,6 @@ Wrapper for the Stock Data API.
 
 To get started, just add your API_TOKEN to the `settings.py file`
 
-### Variables
-
-All variables will appear as bold in the sample URL's.
-
-***
-
 ## Examples
 
+All variables will appear as bold in the sample URL's.
