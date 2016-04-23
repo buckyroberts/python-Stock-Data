@@ -52,6 +52,7 @@ def main():
         print(company)
 ```
 
+Response:
 ```
 Agilent Technologies, Inc. - $13.74B
 Alcoa Inc. - $13.7B
