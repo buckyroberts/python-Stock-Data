@@ -27,9 +27,7 @@ AAME
 ...
 ```
 
-##Print basic information such as ticker symbol, name, market cap, IPO year, sector, and industry for all companies.
-
-Sample code:
+### Print basic information for all companies
 ```
 def main():
     for company in API.get_companies():
@@ -43,9 +41,7 @@ Response:
 {'ipo_year': '1983', 'name': 'Amgen Inc.', 'sector': 'Health Care', 'last_sale': '164.35', 'industry': 'Biotechnology: Biological Products (No Diagnostic Substances)', 'ticker': 'AMGN', 'market_cap': '$123.61B'}
 ```
 
-## Print a specific field for all companies
-
-Sample code:
+### Print a specific field for all companies
 ```
 def main():
     for company in API.get_companies():
