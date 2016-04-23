@@ -14,7 +14,7 @@ Here are some examples for the API call.
 
 
 
-**Print a sorted set of all tickers**
+## Print a sorted set of all tickers
 ```
 def main():
     for ticker in API.get_tickers():
@@ -33,9 +33,7 @@ AAME
 ...
 ```
 
-***
-
-**Print basic information for all companies**
+### Print basic information for all companies
 ```
 def main():
     for company in API.get_companies():
