@@ -101,7 +101,28 @@ def main():
 
 output:
 ```
-{'high': 579.19, 'open': 576.37, 'rsi_10': 47.59, 'adj_close': 287.17, 'sma_50': 585.8, 'rsi_14': 47.54, 'sto': 41.33, 'pct_change_24h': -0.28, 'pct_change': -0.25, 'sma_5': 574.96, 'obv': -1345097800.0, 'change_24h': -1.6, 'volume': 2936100, 'sma_10': 581.1, 'change': -1.45, 'close': 574.92, 'date': '2012-07-16', 'ticker': 'GOOG', 'low': 571.78, 'sma_200': 601.12}
+{
+   'high':579.19,
+   'open':576.37,
+   'rsi_10':47.59,
+   'adj_close':287.17,
+   'sma_50':585.8,
+   'rsi_14':47.54,
+   'sto':41.33,
+   'pct_change_24h':-0.28,
+   'pct_change':-0.25,
+   'sma_5':574.96,
+   'obv':-1345097800.0,
+   'change_24h':-1.6,
+   'volume':2936100,
+   'sma_10':581.1,
+   'change':-1.45,
+   'close':574.92,
+   'date':'2012-07-16',
+   'ticker':'GOOG',
+   'low':571.78,
+   'sma_200':601.12
+}
 ```
 
 ## Get historical price data (date range)
