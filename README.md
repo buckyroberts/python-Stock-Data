@@ -6,11 +6,8 @@ This is a wrapper for the [Stock Data API](http://stock-data-api.com/).
 
 # Getting Started
 
-To get started, just add your API_TOKEN to the `settings.py file`
-
-# Examples
-
-Here are a few examples for using the API and a brief description of the functions used.
+To get started, just add your API_TOKEN to the `settings.py file`. Here are a few examples for using the API and a brief
+description of the functions used.
 
 ### Print a sorted set of all tickers
 `get_tickers()` - Returns a sorted set of all tickers
