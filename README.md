@@ -33,7 +33,7 @@ AAME
 ...
 ```
 
-## Print all companies
+### Print all companies
 `get_companies()` - Returns a list of all companies
 
 ```
@@ -54,7 +54,7 @@ Atlantic American Corporation - $92.59M
 ...
 ```
 
-## View a single company
+### View a single company
 `get_single_company()` - Returns single company as dict
 
 ```
@@ -75,7 +75,7 @@ output:
 }
 ```
 
-## Get historical price data
+### Get historical price data
 `get_history()` - Returns a list of historical price dicts (date, open, high, low, etc...)
 
 ```
@@ -91,7 +91,7 @@ output:
 {'change_24h': 0.67, 'adj_close': 316.17, 'sma_10': 612.93, 'low': 628.22, 'ticker': 'GOOG', 'open': 628.26, 'obv': -1365044100.0, 'sma_5': 624.32, 'pct_change': 0.75, 'sma_200': 605.84, 'change': 4.71, 'sma_50': 585.66, 'sto': 88.04, 'high': 636.5, 'rsi_14': 70.19, 'date': '2012-07-31', 'close': 632.97, 'pct_change_24h': 0.11, 'volume': 3745100, 'rsi_10': 75.0}
 ```
 
-## Get historical price data (single date)
+### Get historical price data (single date)
 `get_history_for_date()` - Returns historical price dict for a single date
 
 ```
@@ -125,7 +125,7 @@ output:
 }
 ```
 
-## Get historical price data (date range)
+### Get historical price data (date range)
 `get_history_for_date_range()` - Returns a list of historical price dicts between date range
 
 ```
