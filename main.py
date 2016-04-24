@@ -6,8 +6,8 @@ API = StockDataApi(IP_ADDRESS, PORT, API_TOKEN)
 
 
 def main():
-    for row in API.get_history_for_date_range('GOOG', '2012-07-16', '2012-07-18'):
-        print(row)
+    for company in API.get_companies():
+        print(company['name'] + ' - ' + company['market_cap'])
 
 
 if __name__ == "__main__":
