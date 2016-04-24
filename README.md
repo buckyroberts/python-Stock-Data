@@ -140,3 +140,12 @@ output:
 {'sma_50': 585.39, 'date': '2012-07-17', 'ticker': 'GOOG', 'sma_5': 573.97, 'change': -1.7, 'close': 576.73, 'sma_200': 601.36, 'rsi_10': 49.38, 'adj_close': 288.08, 'low': 568.4, 'pct_change_24h': 0.31, 'rsi_14': 48.72, 'sto': 45.55, 'pct_change': -0.29, 'change_24h': 1.81, 'volume': 3372700, 'sma_10': 580.73, 'high': 580.67, 'obv': -1348470500.0, 'open': 578.43}
 {'sma_50': 584.86, 'date': '2012-07-18', 'ticker': 'GOOG', 'sma_5': 575.88, 'change': 3.78, 'close': 580.76, 'sma_200': 601.69, 'rsi_10': 53.32, 'adj_close': 290.09, 'low': 576.13, 'pct_change_24h': 0.7, 'rsi_14': 51.34, 'sto': 54.96, 'pct_change': 0.66, 'change_24h': 4.03, 'volume': 3107900, 'sma_10': 580.02, 'high': 583.69, 'obv': -1351578400.0, 'open': 576.98}
 ```
+
+# Links
+
+* [Stock Data API](http://stock-data-api.com/)
+* [Twitter](https://twitter.com/StockMarketAPI)
+* [Facebook](https://www.facebook.com/Stock-Data-API-613005355529673/)
+* [Pinterest](https://www.pinterest.com/stockdataapi/)
+* [reddit](https://www.reddit.com/r/stock_data/)
+* [Tumblr](http://stockdataapi.tumblr.com/)
