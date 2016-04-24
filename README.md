@@ -138,7 +138,7 @@ output:
 {'sma_50': 584.86, 'date': '2012-07-18', 'ticker': 'GOOG', 'sma_5': 575.88, 'change': 3.78, 'close': 580.76, 'sma_200': 601.69, 'rsi_10': 53.32, 'adj_close': 290.09, 'low': 576.13, 'pct_change_24h': 0.7, 'rsi_14': 51.34, 'sto': 54.96, 'pct_change': 0.66, 'change_24h': 4.03, 'volume': 3107900, 'sma_10': 580.02, 'high': 583.69, 'obv': -1351578400.0, 'open': 576.98}
 ```
 
-# Links
+## Links
 
 * [Stock Data API](http://stock-data-api.com/)
 * [Twitter](https://twitter.com/StockMarketAPI)
